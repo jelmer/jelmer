@@ -5,6 +5,8 @@ You can find me on:
 * [Launchpad](https://launchpad.net/~jelmer)
 * [Debian](https://qa.debian.org/developer.php?login=jelmer)
 
+## Projects
+
 Nowadays, I mostly work on various Debian-related projects, including:
 
 * [Debian Janitor](https://janitor.debian.net/) - a service that helps maintainers keep their packages up to date
@@ -25,3 +27,9 @@ Previously, I worked on:
 * [BitlBee](https://bitlbee.org/) - an IRC to other chat networks gateway
 * [Bazaar](https://bazaar.launchpad.net/) - a distributed version control system
 * [Launchpad](https://launchpad.net/) - a software collaboration platform
+
+## Contact
+
+- **Email**: jelmer@jelmer.uk
+- **Matrix**: @jelmer:matrix.org
+- **PGP Key**: D729A457
