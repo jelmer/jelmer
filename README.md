@@ -1,5 +1,6 @@
 You can find me on:
 
+* [Homepage](https://jelmer.uk/)
 * [GitHub](https://github.com/jelmer)
 * [LinkedIn](https://linkedin.com/in/jelmer)
 * [Launchpad](https://launchpad.net/~jelmer)
@@ -9,4 +10,4 @@ You can find me on:
 
 - **Email**: jelmer@jelmer.uk
 - **Matrix**: @jelmer:matrix.org
-- **PGP Key**: D729A457
+- **PGP Key**: DC837EE14A7E37347E87061700806F2BD729A457
