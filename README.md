@@ -6,6 +6,8 @@ You can find me on:
 * [Launchpad](https://launchpad.net/~jelmer)
 * [Debian](https://qa.debian.org/developer.php?login=jelmer)
 
+If you've submitted a PR for a project I work on, consider reading my [advice on effective reviewer interactions](https://jelmer.uk/pages/pr-advice.html).
+
 ## Contact
 
 - **Email**: jelmer@jelmer.uk
