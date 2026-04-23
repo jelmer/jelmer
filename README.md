@@ -1,5 +1,6 @@
 You can find me on:
 
+* [Homepage](https://jelmer.uk/)
 * [GitHub](https://github.com/jelmer)
 * [LinkedIn](https://linkedin.com/in/jelmer)
 * [Launchpad](https://launchpad.net/~jelmer)
@@ -28,8 +29,10 @@ Previously, I worked on:
 * [Bazaar](https://bazaar.launchpad.net/) - a distributed version control system
 * [Launchpad](https://launchpad.net/) - a software collaboration platform
 
+If you're contributing to a project I maintain, consider reading my [advice on effective reviewer interactions](https://jelmer.uk/pages/pr-advice.html).
+
 ## Contact
 
 - **Email**: jelmer@jelmer.uk
 - **Matrix**: @jelmer:matrix.org
-- **PGP Key**: D729A457
+- **PGP Key**: [DC837EE14A7E37347E87061700806F2BD729A457](https://jelmer.uk/D729A457.asc)
